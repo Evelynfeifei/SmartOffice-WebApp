@@ -9,12 +9,12 @@ This web application is developed on Visual Studio 2017. ASP.NET and C# were use
 2.The modules include “Paid Off Time Approval”, “Overtime Approval”, “Reimbursements Approval”, “Borrow Items Approval”, “Contract Approval”, and "Reports".<br>
 3.The system reduce the paperwork burden for the office management and provide a clear picture to management about employees’ availability and their routine progress.<br>
 
-<h3>Software Environment & Design method</h3>
+<h3>Software Environment & Design Method</h3>
 1.Build database management system using MS SQL Server.<br>
 2..Net Framework 4.6.1<br>
 3.OOD is used throughout the project development.<br>
 
-<h3>Technical points</h3>
+<h3>Technical Points</h3>
 1.Password Hash&Salt<br>
 2.Session State<br>
 3.Repeater<br>
